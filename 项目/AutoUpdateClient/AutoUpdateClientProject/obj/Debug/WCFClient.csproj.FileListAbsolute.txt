@@ -1,0 +1,63 @@
+C:\Users\TONG\Desktop\WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\bin\Debug\WCFClient.exe.config
+C:\Users\TONG\Desktop\WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\bin\Debug\WCFClient.exe
+C:\Users\TONG\Desktop\WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\TONG\Desktop\WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache
+C:\Users\TONG\Desktop\WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.Form1.resources
+C:\Users\TONG\Desktop\WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.Properties.Resources.resources
+C:\Users\TONG\Desktop\WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.csproj.GenerateResource.Cache
+C:\Users\TONG\Desktop\WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.exe
+C:\Users\TONG\Desktop\WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.pdb
+G:\迅达天成20170612\迅达天成\自动更新WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\bin\Debug\WCFClient.exe.config
+G:\迅达天成20170612\迅达天成\自动更新WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.exe
+G:\迅达天成20170612\迅达天成\自动更新WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.pdb
+G:\迅达天成20170612\迅达天成\自动更新WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\bin\Debug\WCFClient.exe
+G:\迅达天成20170612\迅达天成\自动更新WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\bin\Debug\WCFClient.pdb
+G:\迅达天成20170612\迅达天成\自动更新WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache
+G:\迅达天成20170612\迅达天成\自动更新WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.Form1.resources
+G:\迅达天成20170612\迅达天成\自动更新WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.Properties.Resources.resources
+G:\迅达天成20170612\迅达天成\自动更新WCF测试\WCFUload\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.csproj.GenerateResource.Cache
+G:\迅达天成 20170613\项目\WCFClient\WCFClient - 副本\WCFClient\bin\Debug\Updateinstall.bat
+G:\迅达天成 20170613\项目\WCFClient\WCFClient - 副本\WCFClient\bin\Debug\Updateunload.bat
+G:\迅达天成 20170613\项目\WCFClient\WCFClient - 副本\WCFClient\bin\Debug\WCFClient.exe.config
+G:\迅达天成 20170613\项目\WCFClient\WCFClient - 副本\WCFClient\bin\Debug\WCFClient.exe
+G:\迅达天成 20170613\项目\WCFClient\WCFClient - 副本\WCFClient\bin\Debug\WCFClient.pdb
+G:\迅达天成 20170613\项目\WCFClient\WCFClient - 副本\WCFClient\bin\Debug\ToolAPI.dll
+G:\迅达天成 20170613\项目\WCFClient\WCFClient - 副本\WCFClient\obj\Debug\WCFClient.Form1.resources
+G:\迅达天成 20170613\项目\WCFClient\WCFClient - 副本\WCFClient\obj\Debug\WCFClient.ProjectInstaller.resources
+G:\迅达天成 20170613\项目\WCFClient\WCFClient - 副本\WCFClient\obj\Debug\WCFClient.Properties.Resources.resources
+G:\迅达天成 20170613\项目\WCFClient\WCFClient - 副本\WCFClient\obj\Debug\WCFClient.UpdateServer.resources
+G:\迅达天成 20170613\项目\WCFClient\WCFClient - 副本\WCFClient\obj\Debug\WCFClient.csproj.GenerateResource.Cache
+G:\迅达天成 20170613\项目\WCFClient\WCFClient - 副本\WCFClient\obj\Debug\WCFClient.exe
+G:\迅达天成 20170613\项目\WCFClient\WCFClient - 副本\WCFClient\obj\Debug\WCFClient.pdb
+C:\Users\Administrator\Desktop\WCFClient\WCFClient\WCFClient\bin\Debug\Updateinstall.bat
+C:\Users\Administrator\Desktop\WCFClient\WCFClient\WCFClient\bin\Debug\Updateunload.bat
+C:\Users\Administrator\Desktop\WCFClient\WCFClient\WCFClient\bin\Debug\WCFClient.exe.config
+C:\Users\Administrator\Desktop\WCFClient\WCFClient\WCFClient\bin\Debug\WCFClient.exe
+C:\Users\Administrator\Desktop\WCFClient\WCFClient\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\Administrator\Desktop\WCFClient\WCFClient\WCFClient\bin\Debug\ToolAPI.dll
+C:\Users\Administrator\Desktop\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.Form1.resources
+C:\Users\Administrator\Desktop\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.ProjectInstaller.resources
+C:\Users\Administrator\Desktop\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.UpdateServer.resources
+C:\Users\Administrator\Desktop\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.exe
+C:\Users\Administrator\Desktop\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.pdb
+J:\迅达天成\项目\WCFClient\WCFClient\WCFClient\bin\Debug\Updateinstall.bat
+J:\迅达天成\项目\WCFClient\WCFClient\WCFClient\bin\Debug\Updateunload.bat
+J:\迅达天成\项目\WCFClient\WCFClient\WCFClient\bin\Debug\WCFClient.exe.config
+J:\迅达天成\项目\WCFClient\WCFClient\WCFClient\bin\Debug\WCFClient.exe
+J:\迅达天成\项目\WCFClient\WCFClient\WCFClient\bin\Debug\WCFClient.pdb
+J:\迅达天成\项目\WCFClient\WCFClient\WCFClient\bin\Debug\ToolAPI.dll
+J:\迅达天成\项目\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.Form1.resources
+J:\迅达天成\项目\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.ProjectInstaller.resources
+J:\迅达天成\项目\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.Properties.Resources.resources
+J:\迅达天成\项目\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.UpdateServer.resources
+J:\迅达天成\项目\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.csproj.GenerateResource.Cache
+J:\迅达天成\项目\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.exe
+J:\迅达天成\项目\WCFClient\WCFClient\WCFClient\obj\Debug\WCFClient.pdb
+J:\迅达天成20170706\项目\AutoUpdateClient\WCFClient\bin\Debug\WCFClient.exe.config
+J:\迅达天成20170706\项目\AutoUpdateClient\WCFClient\obj\Debug\WCFClient.exe
+J:\迅达天成20170706\项目\AutoUpdateClient\WCFClient\obj\Debug\WCFClient.pdb
+J:\迅达天成20170706\项目\AutoUpdateClient\AutoUpdateClientProject\bin\Debug\WCFClient.exe.config
+J:\迅达天成20170706\项目\AutoUpdateClient\AutoUpdateClientProject\obj\Debug\WCFClient.exe
+J:\迅达天成20170706\项目\AutoUpdateClient\AutoUpdateClientProject\obj\Debug\WCFClient.pdb

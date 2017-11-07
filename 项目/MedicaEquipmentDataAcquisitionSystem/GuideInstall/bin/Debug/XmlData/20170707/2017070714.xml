@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Log>  <Term Key="软件安装验证加密异常" Value="值不能为 null。
+参数名: inArray   在 System.Convert.ToBase64String(Byte[] inArray)
+   在 GuideInstall.Form1.Encrypt(String desString) 位置 j:\XDTC完成版170706\项目\MedicaEquipmentDataAcquisitionSystem\GuideInstall\Form1.cs:行号 58" Datetime="2017-07-07 14:18:24" />
+  <Term Key="软件安装验证加密异常" Value="值不能为 null。
+参数名: inArray   在 System.Convert.ToBase64String(Byte[] inArray)
+   在 GuideInstall.Form1.Encrypt(String desString) 位置 j:\XDTC完成版170706\项目\MedicaEquipmentDataAcquisitionSystem\GuideInstall\Form1.cs:行号 58" Datetime="2017-07-07 14:18:24" />
+  <Term Key="得到devicesn和code成功" Value="   " Datetime="2017-07-07 14:18:24" />
+  <Term Key="得到devicesn和code成功" Value="0jwtgdzmV5KQpBL/RQeNJQ==   RE9m44AqXouwRRXViwswGA==" Datetime="2017-07-07 14:32:32" />
+  <Term Key="得到devicesn和code成功" Value="l/CehMWpa76DHkDbRyKW+g==   XymeUw0tA57pbA5IKldBbw==" Datetime="2017-07-07 14:50:30" />

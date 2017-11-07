@@ -1,0 +1,32 @@
+http://blog.csdn.net/chordwang/article/details/54311033
+1.添加一个SetHeaderValue方法：
+        public static void SetHeaderValue(WebHeaderCollection header, string name, string value)
+        {
+            var property = typeof(WebHeaderCollection).GetProperty("InnerCollection",BindingFlags.Instance | BindingFlags.NonPublic);
+            if (property != null)
+            {
+                var collection = property.GetValue(header, null) as NameValueCollection;
+                collection[name] = value;
+            }
+        }
+2.调用这个方法设置HttpHeader头：
+      HttpWebRequest rq = (HttpWebRequest)WebRequest.Create("Url");
+                rq.Method = "GET";
+                SetHeaderValue(rq.Headers, "Host", "127.0.0.1");
+                SetHeaderValue(rq.Headers, "Connection", "keep-alive");
+                SetHeaderValue(rq.Headers, "Accept", "*/*");
+                SetHeaderValue(rq.Headers, "X-Requested-With", "XMLHttpRequest");
+                SetHeaderValue(rq.Headers, "User-Agent", "...");
+                SetHeaderValue(rq.Headers, "Referer", "http://127.0.0.1/index.php?m=Index&a=indexs");
+                SetHeaderValue(rq.Headers, "Accept-Encoding", "gzip, deflate");
+                SetHeaderValue(rq.Headers, "Accept-Language", "1.5");
+                SetHeaderValue(rq.Headers, "Cookie", "This is Cookie");
+ 
+                HttpWebResponse resp = (HttpWebResponse)rq.GetResponse();
+ 
+                using (Stream stream = resp.GetResponseStream())
+                {
+                    StreamReader reader =new StreamReader(stream,Encoding.Default);
+                    string responseString = reader.ReadToEnd();
+                    MessageBox.Show(responseString);
+                }
